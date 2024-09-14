@@ -4,7 +4,7 @@
 
 Organo is a fully responsive website, <br />Responsive for all devices, build using HTML, CSS, and JavaScript.
 
-  <a href="https://codewithsadee.github.io/futras/"><strong>➥ Live Demo</strong></a>
+  <a href="https://harsh6183.github.io/organo/"><strong>➥ Live Demo</strong></a>
 
 </div>
 
